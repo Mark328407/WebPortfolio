@@ -5,13 +5,14 @@
     box-sizing: border-box;
 }
 
-body {
-  font-family: Arial, sans-serif;
-}
+
 html {
   scroll-behavior: smooth;
 }
 
+section {
+  scroll-margin-top: 80px;
+}
 .landing-title {
   color: #1e73be;
   font-weight: bold;

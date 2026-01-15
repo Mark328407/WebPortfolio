@@ -8,6 +8,9 @@
 body {
   font-family: Arial, sans-serif;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 .landing-title {
   color: #1e73be;
